@@ -1,1 +1,1 @@
-# A_C+_Gradebook
+# A gradebook program written in C++
